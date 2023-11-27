@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Hi!👋&animation=fadeIn&color=1:58d1b2,100:2755c2)
 
 <h1 align="left">💫 About Me:</h1>
-<h2 align="center">I am a backend developer with great passion in Java. I have skills to analyze any kind of problem and find an optimal and efficient technological solution and find an optimal and efficient technological solution.</h2>
+<h2 align="center">I am a backend developer with great passion in Java. I have skills to analyze any kind of problem and find an optimal and efficient technological solution.</h2>
 
 <h1 align="left">🌐 Connect with me:</h1>
 <p align="left">
